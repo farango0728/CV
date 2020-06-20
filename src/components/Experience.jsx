@@ -16,7 +16,7 @@ const Experience = (props) => (
     <div className="item" key="2">
       <H3Element>
         Backend - Frontend @ Softcom - Argentina
-        <span>2011 - 2013</span>
+        <span> 2011 - 2013</span>
       </H3Element>
       <ParamElement content="Desarrollo de aplicaciones, mantenimiento a aplicaciones desarrolladas." />
     </div>
@@ -24,7 +24,7 @@ const Experience = (props) => (
     <div className="item" key="3">
       <H3Element>
         Backend - Frontend @ Proimpo sas - Colombia
-        <span>2014 - 2020</span>
+        <span> 2014 - 2020</span>
       </H3Element>
       <ParamElement content="Desarrollo de plataformas." />
     </div>
