@@ -7,6 +7,7 @@ import Info from "../components/Info";
 import About from "../components/About";
 import Education from "../components/Education";
 import Experience from "../components/Experience";
+import Abilities from "../components/Abilities";
 import Skills from "../components/Skills";
 import Loader from "../components/Loader";
 const GlobalStyle = createGlobalStyle`
@@ -37,6 +38,7 @@ const App = () => {
       <Info>
         <Education />
         <Experience />
+        <Abilities />
         <Skills />
       </Info>
     </Main>
